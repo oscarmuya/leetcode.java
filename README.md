@@ -24,8 +24,17 @@ src/
 | 5 | Largest Rectangle in Histogram | Hard | 84 | `hard/LargestRectangleInHistogram.java` |
 | 6 | Smallest Range Covering Elements from K Lists | Hard | 632 | `hard/SmallestRangeCoveringElements.java` |
 | 7 | Sliding Window Median | Hard | 480 | `hard/SlidingWindowMedian.java` |
+| 8 | Longest Common Subsequence | Medium | 1143 | `medium/LongestCommonSubsequence.java` |
+| 9 | Coin Change | Medium | 322 | `medium/CoinChange.java` |
 
 ## Problem Details
+
+### Medium
+
+| Problem | Description | Key Concepts |
+|---------|-------------|--------------|
+| **Longest Common Subsequence** | Find the length of the longest common subsequence between two strings | Dynamic Programming |
+| **Coin Change** | Find the minimum number of coins needed to make up a given amount | Dynamic Programming, BFS |
 
 ### Hard
 
@@ -42,9 +51,9 @@ src/
 ## Progress
 
 - **Easy**: 0 problems
-- **Medium**: 0 problems  
+- **Medium**: 2 problems  
 - **Hard**: 7 problems
-- **Total**: 7 problems
+- **Total**: 9 problems
 
 ## Adding New Solutions
 
